@@ -1,0 +1,13 @@
+{
+  "name": "beispiel-projekt",
+  "version": "1.0.0",
+  "description": "Ein einfaches Node.js Beispielprojekt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["beispiel", "node"],
+  "author": "",
+  "license": "ISC"
+}
